@@ -1,0 +1,38 @@
+  body {
+    background-color: rgb(247, 214, 170);
+  }
+#menu {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 1320px;
+    background-color:white;
+    position: relative;
+    top: 45px;
+    left: 30%;
+}
+#time {   
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 178, 190, 0.603);
+}
+h3 {
+    color: rgb(112, 60, 69);
+}
+h2 {
+    color: rgb(112, 60, 69);
+    margin: 20px;
+}
+#max {
+    display: inline-block;
+    
+}
+p {
+    margin: 20px;
+}
+
+
+
+
+
